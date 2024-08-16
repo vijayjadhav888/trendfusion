@@ -5,3 +5,6 @@ eureka:
 
 myconfig:
     name: vijay
+
+my-app:
+  message: "Hello from the git config server!"
