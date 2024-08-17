@@ -2,9 +2,3 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8762/eureka/
-
-myconfig:
-    name: vijay
-
-my-app-git:
-  message: "Hello from the git!"
